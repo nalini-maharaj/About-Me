@@ -1,10 +1,10 @@
 # Hi, my name is Nalini! :wave:
-## I'm currently a 22 year old student at the University of Waterloo, in my 3rd year of Honours Physics and Astronomy.
-#### Throughout my degree thus far, I have gained a proficieny in Python. Specifically, I enjoy modelling astronomical data in order to observe patterns in the universe.
+## I'm currently a 24 year old recent graduate from the University of Waterloo, with a Bachelor's of Honours Physics and Astronomy.
+#### Throughout my degree, I have gained a proficieny in Python. Specifically, I enjoy modelling astronomical data in order to observe patterns in the universe.
 ## More About Me
 In the future, I hope to be able to work in astronomical research about physical phenomena in the universe, such as understanding dark matter and black holes.
 
-I love learning about other cultures and specifically, their languages. Some of the languages that I am at a beginner level in include Japanese and Korean. Here's a list of some other languages I want to learn:
+I love learning about other cultures and specifically, their languages. Some of the languages that I am at a beginner level in include Japanese, Korean and Italian. Here's a list of some other languages I want to learn:
 
 - [ ] Gujarati
 - [ ] Mandarin
