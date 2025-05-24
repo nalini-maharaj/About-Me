@@ -1,5 +1,5 @@
 # Hi, my name is Nalini! :wave:
-## I'm currently a 24 year old recent graduate from the University of Waterloo, with a Bachelor's of Honours Physics and Astronomy.
+## I'm currently a 25 year old recent graduate from the University of Waterloo, with a Bachelor's of Honours Physics and Astronomy.
 #### Throughout my degree, I have gained a proficieny in Python. Specifically, I enjoy modelling astronomical data in order to observe patterns in the universe.
 ## More About Me
 In the future, I hope to be able to work in astronomical research about physical phenomena in the universe, such as understanding dark matter and black holes.
